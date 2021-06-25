@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yommoodev
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on any open source project
+- 💞️ I’m open to collaborate on any open source project
 - 📫 How to reach me email me at jvillanueva2698@gmail.com
 
 <!---
